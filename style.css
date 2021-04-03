@@ -1,0 +1,119 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: aliceblue;
+    background-color: #080000;
+    font-family: 'Roboto', sans-serif;
+}
+.img{
+    height: 100vh;
+    margin-top: 8%;
+    margin-left: 5%;
+    
+}
+.green{
+    background-color:#1d1e20 ;
+    color: #11e268;
+    
+}
+.main{
+    position: absolute;
+    display: inline-block;
+    top: 8%;
+    left: 35%;
+    background-color:#1d1e20 ;
+    fill:#1d1e20 ;
+    height: 30%;
+    width: 60%;
+    padding: 2%;
+
+}
+.about-me > h1{
+    font-size: 400%  ;
+    background-color:#1d1e20 ;
+   
+ 
+   
+
+}
+.profile{
+    background-color:#1d1e20 ;
+    text-align: left;
+    color: #4e4f51;
+    fill:#1d1e20 ;
+    
+}
+hr{
+     display:block;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    bottom: 0%;
+    border-top: 1px solid #1d1e20 ;
+    margin-top: 100px
+    fill:#1d1e20 ;
+    
+}
+.about-me{
+    background-color:#1d1e20 ;
+    fill:#1d1e20 ;
+    
+}
+.main2
+{
+    display:block;
+    width: 25%;
+  position: relative;
+  margin: -44% 35%;
+  background-color:  #1d1e20;
+  color: #4e4f51;
+  fill:#1d1e20 ;
+    
+}
+.main3{
+    display:block;
+    width: 25%;
+  position: relative;
+  margin: 33.5% 70%;
+  background-color:  #1d1e20;
+  color: #4e4f51;
+  fill:#1d1e20 ;
+    
+}
+i{
+    color:  #11e268;
+}
+.main4{
+    display:block;
+    width: 25%;
+  position: relative;
+  margin: -30% 35%;
+  background-color:  #1d1e20;
+  color: #4e4f51;
+  fill:#1d1e20 ;
+    
+}
+.main5{
+    display:block;
+    width: 25%;
+  position: relative;
+  margin: 18.5% 70%;
+  background-color:  #1d1e20;
+  color: #4e4f51;
+  fill:#1d1e20 ;
+    
+}
+.tag{
+    display: block;
+   width: 20%;
+  text-align: center;
+  margin-left: 25px;
+  background-color:#1d1e20 ;
+  fill:#1d1e20 ;
+   
+
+}
+.brown{
+    background-color:#1d1e20 ;
+    fill:#1d1e20 ;
+}
